@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-27T20:49:58 IST" name="TestNG Regression Suite" finished-at="2022-09-27T20:50:21 IST" duration-ms="22430">
+    <groups>
+    </groups>
+    <test started-at="2022-09-27T20:49:58 IST" name="Google Test" finished-at="2022-09-27T20:50:09 IST" duration-ms="10511">
+      <class name="testcases.GoogleTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.GoogleTest@78b66d36]" started-at="2022-09-27T20:49:58 IST" name="setup" finished-at="2022-09-27T20:50:08 IST" duration-ms="9858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchTest()[pri:1, instance:testcases.GoogleTest@78b66d36]" started-at="2022-09-27T20:50:08 IST" name="searchTest" finished-at="2022-09-27T20:50:08 IST" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method signature="pageTitleTest()[pri:2, instance:testcases.GoogleTest@78b66d36]" started-at="2022-09-27T20:50:08 IST" name="pageTitleTest" finished-at="2022-09-27T20:50:08 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.GoogleTest@78b66d36]" started-at="2022-09-27T20:50:08 IST" name="tearDown" finished-at="2022-09-27T20:50:09 IST" duration-ms="383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.GoogleTest -->
+    </test> <!-- Google Test -->
+    <test started-at="2022-09-27T20:50:09 IST" name="Amazon Test" finished-at="2022-09-27T20:50:15 IST" duration-ms="6164">
+      <class name="testcases.AmazonTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.AmazonTest@13e39c73]" started-at="2022-09-27T20:50:09 IST" name="setup" finished-at="2022-09-27T20:50:14 IST" duration-ms="5497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchTest()[pri:1, instance:testcases.AmazonTest@13e39c73]" started-at="2022-09-27T20:50:14 IST" name="searchTest" finished-at="2022-09-27T20:50:14 IST" duration-ms="257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method signature="logoTest()[pri:2, instance:testcases.AmazonTest@13e39c73]" started-at="2022-09-27T20:50:14 IST" name="logoTest" finished-at="2022-09-27T20:50:15 IST" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoTest -->
+        <test-method signature="pageTitleTest()[pri:3, instance:testcases.AmazonTest@13e39c73]" started-at="2022-09-27T20:50:15 IST" name="pageTitleTest" finished-at="2022-09-27T20:50:15 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.AmazonTest@13e39c73]" started-at="2022-09-27T20:50:15 IST" name="tearDown" finished-at="2022-09-27T20:50:15 IST" duration-ms="300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.AmazonTest -->
+    </test> <!-- Amazon Test -->
+    <test started-at="2022-09-27T20:50:15 IST" name="OpenCart Test" finished-at="2022-09-27T20:50:21 IST" duration-ms="5684">
+      <class name="testcases.OpenCartTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.OpenCartTest@9353778]" started-at="2022-09-27T20:50:15 IST" name="setup" finished-at="2022-09-27T20:50:20 IST" duration-ms="5273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchTest()[pri:1, instance:testcases.OpenCartTest@9353778]" started-at="2022-09-27T20:50:20 IST" name="searchTest" finished-at="2022-09-27T20:50:20 IST" duration-ms="85" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method signature="pageTitleTest()[pri:2, instance:testcases.OpenCartTest@9353778]" started-at="2022-09-27T20:50:20 IST" name="pageTitleTest" finished-at="2022-09-27T20:50:20 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.OpenCartTest@9353778]" started-at="2022-09-27T20:50:20 IST" name="tearDown" finished-at="2022-09-27T20:50:21 IST" duration-ms="310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.OpenCartTest -->
+    </test> <!-- OpenCart Test -->
+  </suite> <!-- TestNG Regression Suite -->
+</testng-results>
